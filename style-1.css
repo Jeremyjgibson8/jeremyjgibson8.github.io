@@ -1,0 +1,19 @@
+ 
+
+body{background: white;} 
+
+p{font-family: calibri;
+font-size: 12pt;
+color: grey;}
+
+h1{
+    font-size: 30pt;
+    text-align: left;}
+
+img{border: 3;
+border-color: red;
+border-radius: 50%;
+width: 30%}
+
+
+.biojudul{background: grey;}
